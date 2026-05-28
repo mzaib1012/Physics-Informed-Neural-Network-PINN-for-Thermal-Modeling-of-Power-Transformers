@@ -19,7 +19,9 @@ Where:
 * $\gamma$ represents the physical heat generation constant.
 
 The optimization space minimizes a dual-component objective function:
-$$\mathcal{L}_{total} = \mathcal{L}_{data} + \lambda \mathcal{L}_{physics}$$
+$$
+\mathcal{L}_{\text{total}} = \mathcal{L}_{\text{data}} + \lambda \mathcal{L}_{\text{physics}}
+$$
 
 ---
 
