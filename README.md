@@ -20,7 +20,10 @@ Where:
 
 The optimization space minimizes a dual-component objective function:
 
-$$\mathcal{L}_{\text{total}} = \mathcal{L}_{\text{data}} + \lambda \mathcal{L}_{\text{physics}}$$
+$$
+\mathcal{L}_{\text{total}} = \mathcal{L}_{\text{data}} + \lambda \mathcal{L}_{\text{physics}}
+$$
+
 ---
 
 ## 🛠️ Repository Tree Configuration
